@@ -2,4 +2,4 @@
 
 This is a golang renamer tool.
 
-go version 1.14
+go version 1.15
